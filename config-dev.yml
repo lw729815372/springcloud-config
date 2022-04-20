@@ -1,2 +1,2 @@
 config: 
-    scname: myspringcloud-configcenter-main-dev
+    scname: myspringcloud-configcenter-main-dev version=1
