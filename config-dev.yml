@@ -1,2 +1,2 @@
-server:
-  port:113311
+config: 
+    scname: myspringcloud-configcenter-main-dev
